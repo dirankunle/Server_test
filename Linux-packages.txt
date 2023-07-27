@@ -1,0 +1,10 @@
+Linux-packages
+1.sudo apt install nginix- Nginx is a web server that can also be used as a reverse proxy, load balancer, mail proxy and HTTP cache.
+2. sudo apt install nodejs 
+sudo systemctl status nginx
+ps -ef : to check the process running 
+htop : use to monitor all precessing status
+cat /etc/os-release : to check version
+netstat:
+: its use to manitor the ports that are running 
+sudo netstat -alpt : more information
